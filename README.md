@@ -7,6 +7,8 @@ Create a subdomain called api.mydomain.com
 Paste files in the root and run the files in your browser.
 Thats all`ll
 
+This is calculated on a coin with 18 decimals.
+
 This will save you hours waiting time going back and forward with coinmarketcap and coingecko for the format they need for your coin supply.
 
 If you found this scrip usefull consider an donation for the creators...
